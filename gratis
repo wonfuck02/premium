@@ -956,13 +956,13 @@ https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beff
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/daerah/jaktv1.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.ibb.co/FHBy8Bc/jtv-modified.png" group-title="Daerah",JTV
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/daerah/jtv.m3u8
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3hdCJvJ/download-3-modified-1.png" group-title="Daerah",Banten TV
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/daerah/bantentv.m3u8
+https://v2.siar.us:443/barayatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BN1hjNG/Desain-tanpa-judul-69-modified.png" group-title="Daerah",Madu TV
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/daerah/madutv.m3u8
+https://re1.siar.us/madutv/hd720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://i.ibb.co/c1PvgS8/balitv-modified.png" group-title="Daerah",Bali TV
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/daerah/balitv.m3u8
