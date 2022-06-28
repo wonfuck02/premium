@@ -2,20 +2,6 @@
 #EXTM3U x-tvg-url="https://dukun.masuk.id/epg/1.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 1]
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/live/live1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 2]
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/live/live2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 3]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/live/live3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybs6C7Z/Capture-modified.png" group-title="Live Event", Request Live Event?
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/dukun.m3u8
-
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/rctifix.m3u8
