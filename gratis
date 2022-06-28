@@ -4,27 +4,27 @@
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/rctifix.m3u8
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_210000=5-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="Lokal",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/gtvfix.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_210000=3-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="Lokal",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/mnctvfix.m3u8
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_210000=3-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/indosiardukunetdahluapainnih.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/indosiar2.m3u8
+http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/sctv1.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
-https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/sctv2.m3u8
+http://210.210.155.35/session/739816c2-dfd9-11ec-b03a-b82a72d63267/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
 https://dukun.masuk.id/fe8ea04354f709b21049523fb6487d72adaa70518a6b54ee9b1d7beffde71256281c6741-c163f17af9e50e879ae53b4d7c11b3f0-1656408240-1656397440/lokal/antv1.m3u8
