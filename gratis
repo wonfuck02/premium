@@ -175,10 +175,10 @@ http://210.210.155.35/session/3dc625d6-e3ba-11ec-aead-b82a72d63267/uq2663/h/h22/
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vg5xfk7/unnamed-1-modified-1.png" group-title="Olahraga",Dunia Games TV
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/olahraga/dg.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/05.m3u8
 
 #EXTINF:-1 tvg-id="https://i.ibb.co/vmqZJny/Desain-tanpa-judul-9-modified.png" tvg-logo="https://i.ibb.co/HPXJx3S/download-8-modified.png" group-title="Olahraga",TVRI Sport
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/olahraga/tvrisport.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="Olahraga",Champions TV 1
 https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/olahraga/champ1etdahluapainnih.m3u8
