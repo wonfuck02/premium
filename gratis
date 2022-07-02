@@ -549,27 +549,27 @@ https://networkbest.ru.com/cdn/premium73/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png" group-title="Olahraga",Bein 1 ID
-##https://dukun.xyz/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/bein1.mpd
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png" group-title="Olahraga",Bein 3 ID
-##https://dukun.xyz/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/bein3.mpd
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://i.ibb.co/Ry2WGHd/channel-102-modified.png" group-title="Olahraga",MNC Sports 1
-https://dukun.xyz/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/mnc1.mpd
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://i.ibb.co/5n3jwct/channel-98-modified.png" group-title="Olahraga",MNC Sports 2
-https://dukun.xyz/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/mnc2.mpd
+https://liveanevia.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-logo="https://i.ibb.co/LZf6Lf1/channel-99-modified.png" group-title="Olahraga",MNC Sports 3
-https://dukun.xyz/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/mnc3.mpd
+https://liveanevia.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -582,7 +582,7 @@ https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://i.ibb.co/jz6Xh5s/u85-BO-GZ-400x400-modified.png" group-title="Olahraga",Barca TV
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/olahraga/barca
+##https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/olahraga/barca
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.ibb.co/8NQ3Cvw/soccer-real-madrid-c-f-real-madrid-logo-wallpaper-preview-modified.png" group-title="Olahraga",Real Madrid TV
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -616,22 +616,22 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="HBOHD" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" group-title="Hiburan",HBO
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/hiburan/hbo.mpd
+https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png" group-title="Hiburan",HBO Signature
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/hiburan/hbosig.mpd
+https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="Hiburan",HBO Family
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/hiburan/hbofam.mpd
+https://stream-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="HBOHitsHD" tvg-logo="https://i.ibb.co/9Y56724/hbo-hits-modified.png" group-title="Hiburan",HBO Hits
-https://dukun.masuk.id/4eb07d332e1ebe7f1c624ba58efc4b64a6a343da473b80e5f3935c1eb7ee73102c185e95-2da117c6dee80ff72d87425314e3616c-1656760215-1656749415/hiburan/hbohits.mpd
+https://stream-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
