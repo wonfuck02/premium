@@ -161,18 +161,18 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.ibb.co/nw9ysdT/WWE-Network-logo-modified.png" group-title="Olahraga",WWE Network
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/wwe
+https://networkbest.ru.com/cdn/premium376/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://i.ibb.co/ZXny9cD/NBA-TV-modified.png" group-title="Olahraga",NBA TV
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/nba
+https://networkbest.ru.com/cdn/premium404/chunks.m3u8
 
 #EXTINF:-1 tvg-id="eGGNetwork.my" tvg-logo="https://i.ibb.co/FgTYk4t/egg-modified.png" group-title="Olahraga",EGG Network
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/egg.m3u8
+http://210.210.155.35/session/3dc625d6-e3ba-11ec-aead-b82a72d63267/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/B2hRDkt/owmglk3ulnxgxvvh2tyr-modified.png" group-title="Olahraga",TechStrom
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/techstorm.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vg5xfk7/unnamed-1-modified-1.png" group-title="Olahraga",Dunia Games TV
 https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/dg.m3u8
@@ -196,141 +196,141 @@ https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297
 https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/champgoaletdahluapainnih.m3u8
 
 #EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.ibb.co/KyYVc6h/Desain-tanpa-judul-52-modified.png" group-title="Olahraga",Sony Six
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/tensix
-
+http://ranapk-june3.in1.bitmana.io/livezx.php?c=Six_HD&q=800&e=.m3u8
+ 
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.ibb.co/dGXMK2m/Desain-tanpa-judul-53-modified.png" group-title="Olahraga",Sony Ten 1
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/ten1
-
+ http://ranapk-june3.in1.bitmana.io/livezx.php?c=Ten_HD&q=800&e=.m3u8
+ 
 #EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.ibb.co/vcvx0yL/Desain-tanpa-judul-54-modified.png" group-title="Olahraga",Sony Ten 2
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/ten2
-
+ http://ranapk-june3.in1.bitmana.io/livezx.php?c=Ten2_HD&q=800&e=.m3u8
+ 
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.ibb.co/MBC88gg/Desain-tanpa-judul-55-modified.png" group-title="Olahraga",Sony Ten 3
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/ten3
-
+ http://ranapk-june3.in1.bitmana.io/livezx.php?c=Ten3_HD&q=800&e=.m3u8
+ 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.ibb.co/DfRknF0/s202110040138065-178-266-removebg-preview-modified.png" group-title="Olahraga",Astro Cricket
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astrocricket
+https://networkbest.ru.com/cdn/premium370/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="Olahraga",Astro Sport 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astro1
+https://networkbest.ru.com/cdn/premium123/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png" group-title="Olahraga",Astro Sport 2
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astro2
+https://networkbest.ru.com/cdn/premium124/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png" group-title="Olahraga",Astro Sport 3
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astro3
+https://networkbest.ru.com/cdn/premium125/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png" group-title="Olahraga",Astro Sport 4
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astro4
+https://networkbest.ru.com/cdn/premium126/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="Olahraga",Astro Sport 5
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/astro5
+https://networkbest.ru.com/cdn/premium43/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="Olahraga",Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/premier1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="Olahraga",Premier Football 2
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/premier2
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="Olahraga",Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/premier3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="Olahraga",Premier Football 4
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/premier4
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="Olahraga",Premier Football 5
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/premier5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.ibb.co/hM2DfBq/Desain-tanpa-judul-62-modified.png" group-title="Olahraga",TrueSport
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/true1
+https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.ibb.co/LN4hV7H/Desain-tanpa-judul-63-modified.png" group-title="Olahraga",TrueSport 2
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/true2
+https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-logo="https://i.ibb.co/yBYLfBJ/Desain-tanpa-judul-64-modified.png" group-title="Olahraga",TrueSport 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/true3
+https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.ibb.co/J5v9vTx/Desain-tanpa-judul-65-modified.png" group-title="Olahraga",TrueSport 4
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/true4
+https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/WPL9Gpw/Desain-tanpa-judul-28-modified-1.png" group-title="Olahraga",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skyfootball
+https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/YZTdPz8/Desain-tanpa-judul-29-modified.png" group-title="Olahraga",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skyarena
+https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.ibb.co/2ghs68G/Desain-tanpa-judul-30-modified.png" group-title="Olahraga",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skyaction
+https://networkbest.ru.com/cdn/premium37/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="Olahraga",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skymain
+https://networkbest.ru.com/cdn/premium38/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="Olahraga",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skypremier
+https://networkbest.ru.com/cdn/premium130/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="Olahraga",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skyf1
+https://networkbest.ru.com/cdn/premium60/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co/31gt3hf/Desain-tanpa-judul-33-modified.png" group-title="Olahraga",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skycricket
+https://networkbest.ru.com/cdn/premium65/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.ibb.co/cbtc1M3/Desain-tanpa-judul-34-modified.png" group-title="Olahraga",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skygolf
+https://networkbest.ru.com/cdn/premium70/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/6v398mJ/Desain-tanpa-judul-35-modified.png" group-title="Olahraga",Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/skyracing
+https://networkbest.ru.com/cdn/premium554/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.ibb.co/W5zSS63/Desain-tanpa-judul-16-modified.png" group-title="Olahraga",BT Sport 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/bt1
+https://networkbest.ru.com/cdn/premium31/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/C7qgcNL/Desain-tanpa-judul-17-modified.png" group-title="Olahraga",BT Sport 2
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -340,181 +340,181 @@ https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.ibb.co/FBN500h/Desain-tanpa-judul-18-modified.png" group-title="Olahraga",BT Sport 3
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/bt3
+https://networkbest.ru.com/cdn/premium33/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-logo="https://i.ibb.co/wNy0tyn/Desain-tanpa-judul-27-modified-1.png" group-title="Olahraga",BT Sport ESPN
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/btespn
+https://networkbest.ru.com/cdn/premium34/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.ibb.co/YfkCfwq/Desain-tanpa-judul-36-modified.png" group-title="Olahraga",Bein 1 ENG
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beineng1
+https://networkbest.ru.com/cdn/premium61/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.ibb.co/F8NHsWC/Desain-tanpa-judul-38-modified.png" group-title="Olahraga",Bein 2 ENG
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beineng2
+https://networkbest.ru.com/cdn/premium90/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.ibb.co/4jmb5ws/Desain-tanpa-judul-37-modified.png" group-title="Olahraga",Bein 3 ENG
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beineng3
+https://networkbest.ru.com/cdn/premium46/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 1 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab1
+https://networkbest.ru.com/cdn/premium91/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 2 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab2
+https://networkbest.ru.com/cdn/premium92/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 3 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab3
+https://networkbest.ru.com/cdn/premium93/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 4 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab4
+https://networkbest.ru.com/cdn/premium93/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 5 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab5
+https://networkbest.ru.com/cdn/premium94/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 6 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab6
+https://networkbest.ru.com/cdn/premium96/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 7 Arab
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinarab7
+https://networkbest.ru.com/cdn/premium97/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.ibb.co/fGGJn68/Desain-tanpa-judul-39-modified.png" group-title="Olahraga",Bein 1 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinpremium1
+https://networkbest.ru.com/cdn/premium98/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.ibb.co/9hRWGp2/Desain-tanpa-judul-40-modified-1.png" group-title="Olahraga",Bein 2 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinpremium2
+https://networkbest.ru.com/cdn/premium99/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.ibb.co/T2qGK1k/Desain-tanpa-judul-41-modified.png" group-title="Olahraga",Bein 3 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinpremium3
+https://networkbest.ru.com/cdn/premium100/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="Olahraga",Bein Sport Extra
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinextra
+###https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/beinextra
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/3zy7XK7/GRftj-RV6-400x400-modified.png" group-title="Olahraga",Fox Sport USA
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/foxsport
+###https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/foxsport
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.ibb.co/vdCs13m/Desain-tanpa-judul-66-modified.png" group-title="Olahraga",Fox Sport 2 USA
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/foxsport2
+###https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/foxsport2
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/CVtMtm0/0x0-modified.png" group-title="Olahraga",ESPN USA
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/espn
+https://networkbest.ru.com/cdn/premium44/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/ZHbHK1Z/Desain-tanpa-judul-44-modified.png" group-title="Olahraga",ESPN 2 USA
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/espn2
+https://networkbest.ru.com/cdn/premium45/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.ibb.co/vL4FKJW/Desain-tanpa-judul-45-modified.png" group-title="Olahraga",ESPN U USA
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/espnu
+https://networkbest.ru.com/cdn/premium316/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.ibb.co/85JF0TN/download-17-modified.png" group-title="Olahraga",Arena 1 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/arena1
+https://networkbest.ru.com/cdn/premium134/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.ibb.co/8PVTcgD/download-16-modified.png" group-title="Olahraga",Arena 2 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/arena2
+https://networkbest.ru.com/cdn/premium135/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://i.ibb.co/ZWDtsz4/download-18-modified.png" group-title="Olahraga",Arena 3 Premium
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/arena3
+https://networkbest.ru.com/cdn/premium139/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.ibb.co/0sDKNYn/Desain-tanpa-judul-46-modified.png" group-title="Olahraga",Eurosport 1 UK
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/eurosport1
+hhttps://networkbest.ru.com/cdn/premium41/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.ibb.co/Wgmb6Xf/Desain-tanpa-judul-51-modified.png" group-title="Olahraga",Eurosport 2 UK
+EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.ibb.co/Wgmb6Xf/Desain-tanpa-judul-51-modified.png" group-title="Olahraga",Eurosport 2 UK
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/eurosport2
+https://networkbest.ru.com/cdn/premium42/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport PSL
+EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport PSL
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superpsl
+https://networkbest.ru.com/cdn/premium413/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Football
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superfotball
+###https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superfotball
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport FIFA
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superfifa
+https://networkbest.ru.com/cdn/premium414/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Premier League
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superpremier
+https://networkbest.ru.com/cdn/premium415/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Grandstand
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/supergrand
+https://networkbest.ru.com/cdn/premium412/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/supervar1
+https://networkbest.ru.com/cdn/premium416/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 2
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/supervar2
+https://networkbest.ru.com/cdn/premium417/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 3
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/supervar3
+https://networkbest.ru.com/cdn/premium418/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 4
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/supervar4
+https://networkbest.ru.com/cdn/premium419/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Action
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superaction
+https://networkbest.ru.com/cdn/premium420/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Rugby
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dukun.masuk.id/912a16d1906010190d115ebfc81c8f7f13d92fe0448712757a65ba297a7052ad2c9063d3-558d3480e73191e87192f6cdbc23c3d0-1656603607-1656592807/olahraga/superrugby
+https://networkbest.ru.com/cdn/premium421/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Golf
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
